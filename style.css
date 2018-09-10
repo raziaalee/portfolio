@@ -1,0 +1,9 @@
+.w3-image{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.w3-hide-medium{
+	display: flex;
+	justify-content: flex-start;
+}
